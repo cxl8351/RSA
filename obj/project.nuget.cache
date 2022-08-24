@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zbpT5KDGWLJvfb2oSUoBGJ19XsW63+e9UjuQyOQ1rcDTMk1NFtfdQZNC1Beb+YfPGnO84j69GUGxIGzoLqUhIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LeCle\\RiderProjects\\Project3\\Messenger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LeCle\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\LeCle\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\LeCle\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

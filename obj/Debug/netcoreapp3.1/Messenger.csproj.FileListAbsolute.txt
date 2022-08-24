@@ -1,0 +1,16 @@
+C:\Users\LeCle\RiderProjects\Project3\bin\Debug\netcoreapp3.1\Messenger.exe
+C:\Users\LeCle\RiderProjects\Project3\bin\Debug\netcoreapp3.1\Messenger.deps.json
+C:\Users\LeCle\RiderProjects\Project3\bin\Debug\netcoreapp3.1\Messenger.runtimeconfig.json
+C:\Users\LeCle\RiderProjects\Project3\bin\Debug\netcoreapp3.1\Messenger.runtimeconfig.dev.json
+C:\Users\LeCle\RiderProjects\Project3\bin\Debug\netcoreapp3.1\Messenger.dll
+C:\Users\LeCle\RiderProjects\Project3\bin\Debug\netcoreapp3.1\Messenger.pdb
+C:\Users\LeCle\RiderProjects\Project3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LeCle\RiderProjects\Project3\obj\Debug\netcoreapp3.1\Messenger.csproj.AssemblyReference.cache
+C:\Users\LeCle\RiderProjects\Project3\obj\Debug\netcoreapp3.1\Messenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeCle\RiderProjects\Project3\obj\Debug\netcoreapp3.1\Messenger.AssemblyInfoInputs.cache
+C:\Users\LeCle\RiderProjects\Project3\obj\Debug\netcoreapp3.1\Messenger.AssemblyInfo.cs
+C:\Users\LeCle\RiderProjects\Project3\obj\Debug\netcoreapp3.1\Messenger.csproj.CoreCompileInputs.cache
+C:\Users\LeCle\RiderProjects\Project3\obj\Debug\netcoreapp3.1\Messenger.csproj.CopyComplete
+C:\Users\LeCle\RiderProjects\Project3\obj\Debug\netcoreapp3.1\Messenger.dll
+C:\Users\LeCle\RiderProjects\Project3\obj\Debug\netcoreapp3.1\Messenger.pdb
+C:\Users\LeCle\RiderProjects\Project3\obj\Debug\netcoreapp3.1\Messenger.genruntimeconfig.cache
