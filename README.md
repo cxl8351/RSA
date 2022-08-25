@@ -1,4 +1,4 @@
-Core project from CSCI.251, Spring 2020.
+Core project from RIT course CSCI.251, Spring 2020.
 
 This program serves as educational practice with cyrptography and concurrent programming. 
 
