@@ -1,3 +1,5 @@
+Core project from CSCI.251, Spring 2020.
+
 This program serves as educational practice with cyrptography and concurrent programming. 
 
 Using the RSA algorithm, a user can send a message to another (under a wide area network), however, it is encrypted. To decrypt it, you would need
